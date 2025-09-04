@@ -1,3 +1,10 @@
+## 🛠 Requirements (MANDATORY)
+
+Install the required dependencies with:
+
+```bash
+pip install -r requirements.txt
+
 # HardwareHouse
 
 **HardwareHouse** is a modern Python-based hardware inspection and benchmarking tool inspired by utilities like AIDA64 and Speccy.
@@ -28,12 +35,3 @@ It displays detailed information about your system's CPU, GPU, RAM, disks, mothe
 - ✅ Export to `.json` and `.csv`
 - ✅ Dark/Light Theme (auto)
 - ✅ Modern UI with `customtkinter`
-
----
-
-## 🛠 Requirements
-
-Install the required dependencies with:
-
-```bash
-pip install -r requirements.txt
