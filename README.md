@@ -1,23 +1,3 @@
-## 🛠 Requirements (MANDATORY)
-
-Install the required dependencies with:
-
-```bash
-pip install -r requirements.txt
-HardwareHouse
-
-is a modern Python-based...
-
-yaml
-Kodu kopyala
-
-Yukarıdaki gibi, kod bloğu sadece `pip install` kısmını kapsıyor, altındaki metin normal yazı oluyor.
-
----
-
-İşte tam istediğin gibi düzeltilmiş hali:
-
-```markdown
 # HardwareHouse
 
 ## 🛠 Requirements (MANDATORY)
