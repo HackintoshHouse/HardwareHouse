@@ -5,8 +5,6 @@ Install the required dependencies with:
 ```bash
 pip install -r requirements.txt
 
----
-
 # HardwareHouse
 
 **HardwareHouse** is a modern Python-based hardware inspection and benchmarking tool inspired by utilities like AIDA64 and Speccy.
