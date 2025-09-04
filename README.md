@@ -14,6 +14,7 @@ It displays detailed information about your system's CPU, GPU, RAM, disks, mothe
 💻 Built with ❤️ by HackintoshHouse
 
 🚀 Features
+
 ✅ System Info
 
 ✅ CPU Details
