@@ -11,7 +11,7 @@ HardwareHouse is a modern Python-based hardware inspection and benchmarking tool
 
 It displays detailed information about your system's CPU, GPU, RAM, disks, motherboard, BIOS, sound devices, network adapters, battery, and more. It also includes lightweight benchmarking tools.
 
-💻 Built with ❤️ by HackintoshHouse
+> 💻 Built with ❤️ by HackintoshHouse
 
 🚀 Features
 
